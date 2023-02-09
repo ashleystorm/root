@@ -56,3 +56,22 @@ git push origin master
 git remote -v
 clear
 exit
+git clone https://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@github.com/ashleystorm/root.git
+git init
+git config --global user.name "ashleystorm"
+git config --global user.email "ashleymundalamo25@gmail.com"
+git remote -v
+git remote add origin git https://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@github.com/ashleystorm/root.git
+git remote add origin https://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@github.com/ashleystorm/root.git
+git remote -v
+clear
+cd root
+ls -l
+git status
+mkdir 0x02_vi
+echo > 0x02_vi/README.md
+git add .
+git commit -m 'new'
+git push origin master
+clear
+exit
