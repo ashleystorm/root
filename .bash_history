@@ -37,3 +37,22 @@ exit
 git clone https://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@github.com/ashleystorm/alx-zero_day.git
 clear
 exit
+git clone https://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@github.com/ashleystorm/root.git
+ls
+cd root
+clear
+ls -l
+mkdir 0x02_vi
+echo > 0x02_vi/README.md
+git add .
+git commit -m 'new dir'
+git push origin master
+ls -l
+clear
+rm -r 0x02_vi
+git add .
+git commit -m 'del'
+git push origin master
+git remote -v
+clear
+exit
