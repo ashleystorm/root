@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1675933746,,"wq"
+|2,0,1675934570,,"wq"
 :w
-|2,0,1675933744,,"w"
+|2,0,1675934568,,"w"
 :q
 |2,0,1675888043,,"q"
 
@@ -29,30 +29,48 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/0x02_vi/pasting
-|4,48,1,0,1675933746,"~/0x02_vi/pasting"
-'1  1  7  /alx-zero_day/0x03-git/up_to_date
-|4,49,1,7,1675889068,"/alx-zero_day/0x03-git/up_to_date"
-'2  2  28  /alx-zero_day/0x03-git/bash/alx
-|4,50,2,28,1675888074,"/alx-zero_day/0x03-git/bash/alx"
-'3  1  0  bsh/alx
-|4,51,1,0,1675888043,"bsh/alx"
-'4  2  8  /alx-zero_day/0x03-git/bash/school
-|4,52,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
-'5  2  24  /alx-zero_day/0x03-git/bash/school
-|4,53,2,24,1675887816,"/alx-zero_day/0x03-git/bash/school"
-'6  2  16  /alx-zero_day/0x03-git/bash/alx
-|4,54,2,16,1675887704,"/alx-zero_day/0x03-git/bash/alx"
-'7  1  2  ~/0x01_emacs/cutting
-|4,55,1,2,1675885369,"~/0x01_emacs/cutting"
+'0  1  0  ~/0x02_vi/exiting
+|4,48,1,0,1675934570,"~/0x02_vi/exiting"
+'1  1  0  ~/0x02_vi/pasting
+|4,49,1,0,1675933746,"~/0x02_vi/pasting"
+'2  1  7  /alx-zero_day/0x03-git/up_to_date
+|4,50,1,7,1675889068,"/alx-zero_day/0x03-git/up_to_date"
+'3  2  28  /alx-zero_day/0x03-git/bash/alx
+|4,51,2,28,1675888074,"/alx-zero_day/0x03-git/bash/alx"
+'4  1  0  bsh/alx
+|4,52,1,0,1675888043,"bsh/alx"
+'5  2  8  /alx-zero_day/0x03-git/bash/school
+|4,53,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
+'6  2  24  /alx-zero_day/0x03-git/bash/school
+|4,54,2,24,1675887816,"/alx-zero_day/0x03-git/bash/school"
+'7  2  16  /alx-zero_day/0x03-git/bash/alx
+|4,55,2,16,1675887704,"/alx-zero_day/0x03-git/bash/alx"
+'8  1  2  ~/0x01_emacs/cutting
+|4,56,1,2,1675885369,"~/0x01_emacs/cutting"
 
 # Jumplist (newest first):
+-'  1  0  ~/0x02_vi/exiting
+|4,39,1,0,1675934570,"~/0x02_vi/exiting"
+-'  1  0  ~/0x02_vi/pasting
+|4,39,1,0,1675933746,"~/0x02_vi/pasting"
 -'  1  0  ~/0x02_vi/pasting
 |4,39,1,0,1675933746,"~/0x02_vi/pasting"
 -'  1  7  /alx-zero_day/0x03-git/up_to_date
 |4,39,1,7,1675889068,"/alx-zero_day/0x03-git/up_to_date"
 -'  1  7  /alx-zero_day/0x03-git/up_to_date
 |4,39,1,7,1675889068,"/alx-zero_day/0x03-git/up_to_date"
+-'  1  7  /alx-zero_day/0x03-git/up_to_date
+|4,39,1,7,1675889068,"/alx-zero_day/0x03-git/up_to_date"
+-'  1  7  /alx-zero_day/0x03-git/up_to_date
+|4,39,1,7,1675889068,"/alx-zero_day/0x03-git/up_to_date"
+-'  2  28  /alx-zero_day/0x03-git/bash/alx
+|4,39,2,28,1675888074,"/alx-zero_day/0x03-git/bash/alx"
+-'  2  28  /alx-zero_day/0x03-git/bash/alx
+|4,39,2,28,1675888074,"/alx-zero_day/0x03-git/bash/alx"
+-'  2  28  /alx-zero_day/0x03-git/bash/alx
+|4,39,2,28,1675888074,"/alx-zero_day/0x03-git/bash/alx"
+-'  2  28  /alx-zero_day/0x03-git/bash/alx
+|4,39,2,28,1675888074,"/alx-zero_day/0x03-git/bash/alx"
 -'  2  28  /alx-zero_day/0x03-git/bash/alx
 |4,39,2,28,1675888074,"/alx-zero_day/0x03-git/bash/alx"
 -'  2  28  /alx-zero_day/0x03-git/bash/alx
@@ -77,6 +95,54 @@
 |4,39,1,0,1675888043,"bsh/alx"
 -'  1  0  bsh/alx
 |4,39,1,0,1675888043,"bsh/alx"
+-'  1  0  bsh/alx
+|4,39,1,0,1675888043,"bsh/alx"
+-'  1  0  bsh/alx
+|4,39,1,0,1675888043,"bsh/alx"
+-'  1  0  bsh/alx
+|4,39,1,0,1675888043,"bsh/alx"
+-'  1  0  bsh/alx
+|4,39,1,0,1675888043,"bsh/alx"
+-'  1  0  bsh/alx
+|4,39,1,0,1675888043,"bsh/alx"
+-'  1  0  bsh/alx
+|4,39,1,0,1675888043,"bsh/alx"
+-'  1  0  bsh/alx
+|4,39,1,0,1675888043,"bsh/alx"
+-'  1  0  bsh/alx
+|4,39,1,0,1675888043,"bsh/alx"
+-'  2  8  /alx-zero_day/0x03-git/bash/school
+|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
+-'  2  8  /alx-zero_day/0x03-git/bash/school
+|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
+-'  2  8  /alx-zero_day/0x03-git/bash/school
+|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
+-'  2  8  /alx-zero_day/0x03-git/bash/school
+|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
+-'  2  8  /alx-zero_day/0x03-git/bash/school
+|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
+-'  2  8  /alx-zero_day/0x03-git/bash/school
+|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
+-'  2  8  /alx-zero_day/0x03-git/bash/school
+|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
+-'  2  8  /alx-zero_day/0x03-git/bash/school
+|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
+-'  2  8  /alx-zero_day/0x03-git/bash/school
+|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
+-'  2  8  /alx-zero_day/0x03-git/bash/school
+|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
+-'  2  8  /alx-zero_day/0x03-git/bash/school
+|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
+-'  2  8  /alx-zero_day/0x03-git/bash/school
+|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
+-'  2  8  /alx-zero_day/0x03-git/bash/school
+|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
+-'  2  8  /alx-zero_day/0x03-git/bash/school
+|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
+-'  2  8  /alx-zero_day/0x03-git/bash/school
+|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
+-'  2  8  /alx-zero_day/0x03-git/bash/school
+|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
 -'  2  8  /alx-zero_day/0x03-git/bash/school
 |4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
 -'  2  8  /alx-zero_day/0x03-git/bash/school
@@ -141,6 +207,38 @@
 |4,39,2,24,1675887816,"/alx-zero_day/0x03-git/bash/school"
 -'  2  24  /alx-zero_day/0x03-git/bash/school
 |4,39,2,24,1675887816,"/alx-zero_day/0x03-git/bash/school"
+-'  2  24  /alx-zero_day/0x03-git/bash/school
+|4,39,2,24,1675887816,"/alx-zero_day/0x03-git/bash/school"
+-'  2  24  /alx-zero_day/0x03-git/bash/school
+|4,39,2,24,1675887816,"/alx-zero_day/0x03-git/bash/school"
+-'  2  24  /alx-zero_day/0x03-git/bash/school
+|4,39,2,24,1675887816,"/alx-zero_day/0x03-git/bash/school"
+-'  2  24  /alx-zero_day/0x03-git/bash/school
+|4,39,2,24,1675887816,"/alx-zero_day/0x03-git/bash/school"
+-'  2  24  /alx-zero_day/0x03-git/bash/school
+|4,39,2,24,1675887816,"/alx-zero_day/0x03-git/bash/school"
+-'  2  24  /alx-zero_day/0x03-git/bash/school
+|4,39,2,24,1675887816,"/alx-zero_day/0x03-git/bash/school"
+-'  2  24  /alx-zero_day/0x03-git/bash/school
+|4,39,2,24,1675887816,"/alx-zero_day/0x03-git/bash/school"
+-'  2  24  /alx-zero_day/0x03-git/bash/school
+|4,39,2,24,1675887816,"/alx-zero_day/0x03-git/bash/school"
+-'  2  24  /alx-zero_day/0x03-git/bash/school
+|4,39,2,24,1675887816,"/alx-zero_day/0x03-git/bash/school"
+-'  2  24  /alx-zero_day/0x03-git/bash/school
+|4,39,2,24,1675887816,"/alx-zero_day/0x03-git/bash/school"
+-'  2  24  /alx-zero_day/0x03-git/bash/school
+|4,39,2,24,1675887816,"/alx-zero_day/0x03-git/bash/school"
+-'  2  24  /alx-zero_day/0x03-git/bash/school
+|4,39,2,24,1675887816,"/alx-zero_day/0x03-git/bash/school"
+-'  2  24  /alx-zero_day/0x03-git/bash/school
+|4,39,2,24,1675887816,"/alx-zero_day/0x03-git/bash/school"
+-'  2  24  /alx-zero_day/0x03-git/bash/school
+|4,39,2,24,1675887816,"/alx-zero_day/0x03-git/bash/school"
+-'  2  24  /alx-zero_day/0x03-git/bash/school
+|4,39,2,24,1675887816,"/alx-zero_day/0x03-git/bash/school"
+-'  2  24  /alx-zero_day/0x03-git/bash/school
+|4,39,2,24,1675887816,"/alx-zero_day/0x03-git/bash/school"
 -'  1  0  /alx-zero_day/0x03-git/bash/school
 |4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
 -'  1  0  /alx-zero_day/0x03-git/bash/school
@@ -151,104 +249,15 @@
 |4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
 -'  1  0  /alx-zero_day/0x03-git/bash/school
 |4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  1  0  /alx-zero_day/0x03-git/bash/school
-|4,39,1,0,1675887786,"/alx-zero_day/0x03-git/bash/school"
--'  2  16  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,16,1675887704,"/alx-zero_day/0x03-git/bash/alx"
--'  2  16  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,16,1675887704,"/alx-zero_day/0x03-git/bash/alx"
--'  2  16  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,16,1675887704,"/alx-zero_day/0x03-git/bash/alx"
--'  2  16  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,16,1675887704,"/alx-zero_day/0x03-git/bash/alx"
--'  2  16  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,16,1675887704,"/alx-zero_day/0x03-git/bash/alx"
--'  2  16  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,16,1675887704,"/alx-zero_day/0x03-git/bash/alx"
--'  2  16  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,16,1675887704,"/alx-zero_day/0x03-git/bash/alx"
--'  2  16  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,16,1675887704,"/alx-zero_day/0x03-git/bash/alx"
--'  2  16  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,16,1675887704,"/alx-zero_day/0x03-git/bash/alx"
--'  2  16  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,16,1675887704,"/alx-zero_day/0x03-git/bash/alx"
--'  2  16  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,16,1675887704,"/alx-zero_day/0x03-git/bash/alx"
--'  2  16  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,16,1675887704,"/alx-zero_day/0x03-git/bash/alx"
--'  2  16  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,16,1675887704,"/alx-zero_day/0x03-git/bash/alx"
--'  2  16  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,16,1675887704,"/alx-zero_day/0x03-git/bash/alx"
--'  2  16  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,16,1675887704,"/alx-zero_day/0x03-git/bash/alx"
--'  2  16  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,16,1675887704,"/alx-zero_day/0x03-git/bash/alx"
--'  2  16  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,16,1675887704,"/alx-zero_day/0x03-git/bash/alx"
--'  2  16  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,16,1675887704,"/alx-zero_day/0x03-git/bash/alx"
--'  2  16  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,16,1675887704,"/alx-zero_day/0x03-git/bash/alx"
--'  2  16  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,16,1675887704,"/alx-zero_day/0x03-git/bash/alx"
--'  2  16  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,16,1675887704,"/alx-zero_day/0x03-git/bash/alx"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x02_vi/exiting
+	*	1675934568	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
 
 > ~/0x02_vi/pasting
 	*	1675933744	0
