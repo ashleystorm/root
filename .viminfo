@@ -12,11 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1675934698,,"wq"
-:w
-|2,0,1675934696,,"w"
+|2,0,1676130747,,"wq"
 :q
-|2,0,1675888043,,"q"
+|2,0,1676113248,,"q"
+:w
+|2,0,1675965252,,"w"
 
 # Search String History (newest to oldest):
 
@@ -29,230 +29,363 @@
 # Registers:
 
 # File marks:
-'0  1  1  ~/0x02_vi/exiting
-|4,48,1,1,1675934698,"~/0x02_vi/exiting"
-'1  1  0  ~/0x02_vi/exiting
-|4,49,1,0,1675934570,"~/0x02_vi/exiting"
-'2  1  0  ~/0x02_vi/pasting
-|4,50,1,0,1675933746,"~/0x02_vi/pasting"
-'3  1  7  /alx-zero_day/0x03-git/up_to_date
-|4,51,1,7,1675889068,"/alx-zero_day/0x03-git/up_to_date"
-'4  2  28  /alx-zero_day/0x03-git/bash/alx
-|4,52,2,28,1675888074,"/alx-zero_day/0x03-git/bash/alx"
-'5  1  0  bsh/alx
-|4,53,1,0,1675888043,"bsh/alx"
-'6  2  8  /alx-zero_day/0x03-git/bash/school
-|4,54,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
-'7  2  24  /alx-zero_day/0x03-git/bash/school
-|4,55,2,24,1675887816,"/alx-zero_day/0x03-git/bash/school"
-'8  2  16  /alx-zero_day/0x03-git/bash/alx
-|4,56,2,16,1675887704,"/alx-zero_day/0x03-git/bash/alx"
-'9  1  2  ~/0x01_emacs/cutting
-|4,57,1,2,1675885369,"~/0x01_emacs/cutting"
+'0  1  6  ~/0x01_emacs/opening
+|4,48,1,6,1676130747,"~/0x01_emacs/opening"
+'1  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,49,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+'2  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,50,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+'3  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,51,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+'4  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,52,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+'5  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,53,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+'6  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,54,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+'7  2  10  /alx-system_engineering-devops/0x01-shell_permissions/4-empty
+|4,55,2,10,1676110453,"/alx-system_engineering-devops/0x01-shell_permissions/4-empty"
+'8  2  10  /alx-system_engineering-devops/0x01-shell_permissions/4-empty
+|4,56,2,10,1676110293,"/alx-system_engineering-devops/0x01-shell_permissions/4-empty"
+'9  2  5  /alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
+|4,57,2,5,1676109298,"/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
 
 # Jumplist (newest first):
--'  1  1  ~/0x02_vi/exiting
-|4,39,1,1,1675934698,"~/0x02_vi/exiting"
--'  1  0  ~/0x02_vi/exiting
-|4,39,1,0,1675934570,"~/0x02_vi/exiting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1675933746,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1675933746,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1675933746,"~/0x02_vi/pasting"
--'  1  0  ~/0x02_vi/pasting
-|4,39,1,0,1675933746,"~/0x02_vi/pasting"
--'  1  7  /alx-zero_day/0x03-git/up_to_date
-|4,39,1,7,1675889068,"/alx-zero_day/0x03-git/up_to_date"
--'  1  7  /alx-zero_day/0x03-git/up_to_date
-|4,39,1,7,1675889068,"/alx-zero_day/0x03-git/up_to_date"
--'  1  7  /alx-zero_day/0x03-git/up_to_date
-|4,39,1,7,1675889068,"/alx-zero_day/0x03-git/up_to_date"
--'  1  7  /alx-zero_day/0x03-git/up_to_date
-|4,39,1,7,1675889068,"/alx-zero_day/0x03-git/up_to_date"
--'  1  7  /alx-zero_day/0x03-git/up_to_date
-|4,39,1,7,1675889068,"/alx-zero_day/0x03-git/up_to_date"
--'  1  7  /alx-zero_day/0x03-git/up_to_date
-|4,39,1,7,1675889068,"/alx-zero_day/0x03-git/up_to_date"
--'  1  7  /alx-zero_day/0x03-git/up_to_date
-|4,39,1,7,1675889068,"/alx-zero_day/0x03-git/up_to_date"
--'  1  7  /alx-zero_day/0x03-git/up_to_date
-|4,39,1,7,1675889068,"/alx-zero_day/0x03-git/up_to_date"
--'  2  28  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,28,1675888074,"/alx-zero_day/0x03-git/bash/alx"
--'  2  28  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,28,1675888074,"/alx-zero_day/0x03-git/bash/alx"
--'  2  28  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,28,1675888074,"/alx-zero_day/0x03-git/bash/alx"
--'  2  28  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,28,1675888074,"/alx-zero_day/0x03-git/bash/alx"
--'  2  28  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,28,1675888074,"/alx-zero_day/0x03-git/bash/alx"
--'  2  28  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,28,1675888074,"/alx-zero_day/0x03-git/bash/alx"
--'  2  28  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,28,1675888074,"/alx-zero_day/0x03-git/bash/alx"
--'  2  28  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,28,1675888074,"/alx-zero_day/0x03-git/bash/alx"
--'  2  28  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,28,1675888074,"/alx-zero_day/0x03-git/bash/alx"
--'  2  28  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,28,1675888074,"/alx-zero_day/0x03-git/bash/alx"
--'  2  28  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,28,1675888074,"/alx-zero_day/0x03-git/bash/alx"
--'  2  28  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,28,1675888074,"/alx-zero_day/0x03-git/bash/alx"
--'  2  28  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,28,1675888074,"/alx-zero_day/0x03-git/bash/alx"
--'  2  28  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,28,1675888074,"/alx-zero_day/0x03-git/bash/alx"
--'  2  28  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,28,1675888074,"/alx-zero_day/0x03-git/bash/alx"
--'  2  28  /alx-zero_day/0x03-git/bash/alx
-|4,39,2,28,1675888074,"/alx-zero_day/0x03-git/bash/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  1  0  bsh/alx
-|4,39,1,0,1675888043,"bsh/alx"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
--'  2  8  /alx-zero_day/0x03-git/bash/school
-|4,39,2,8,1675887847,"/alx-zero_day/0x03-git/bash/school"
+-'  1  6  ~/0x01_emacs/opening
+|4,39,1,6,1676130747,"~/0x01_emacs/opening"
+-'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x01_emacs/opening
+	*	1676130745	0
+	"	1	6
+	^	1	7
+	.	1	6
+	+	1	6
+
+> /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+	*	1676116210	0
+	"	2	9
+	^	2	10
+	.	2	9
+	+	2	9
+
+> /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+	*	1676113295	0
+	"	2	13
+	^	2	14
+	.	2	13
+	+	2	13
+
+> /alx-system_engineering-devops/0x01-shell_permissions/5-execute
+	*	1676110796	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	2	14
+
+> /alx-system_engineering-devops/0x01-shell_permissions/4-empty
+	*	1676110451	0
+	"	2	10
+	^	2	11
+	.	2	10
+	+	2	10
+
+> /alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
+	*	1676109296	0
+	"	2	5
+	^	2	6
+	.	2	5
+	+	1	11
+	+	2	5
+
+> /alx-system_engineering-devops/0x01-shell_permissions/0-iam_betty
+	*	1676108818	0
+	"	2	7
+	^	2	8
+	.	2	7
+	+	2	7
+
+> /alx-system_engineering-devops/0x00-shell_basics/14-copy_html
+	*	1676056927	0
+	"	2	2
+	^	2	3
+	.	2	2
+	+	2	2
+
+> /alx-system_engineering-devops/0x00-shell_basics/13-symbolic_link
+	*	1676056569	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	2	14
+
+> /alx-system_engineering-devops/0x00-shell_basics/11-lists
+	*	1676054191	0
+	"	2	11
+	^	2	12
+	.	2	11
+	+	2	11
+
+> /alx-system_engineering-devops/0x00-shell_basics/6-firstdirectory
+	*	1675971595	0
+	"	2	9
+	^	2	10
+	.	2	9
+	+	1	0
+	+	2	9
+
+> /alx-system_engineering-devops/0x00-shell_basics/7-movethatfile
+	*	1675971145	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	2	14
+
+> /alx-system_engineering-devops/.git/MERGE_MSG
+	*	1675968789	0
+	"	1	0
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/1-listit
+	*	1675968368	0
+	"	2	1
+	^	2	2
+	.	2	2
+	+	1	11
+	+	2	2
+
+> ~/alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+	*	1675967726	0
+	"	2	2
+	^	2	3
+	.	3	0
+	+	2	2
+	+	2	3
+	+	3	0
+
+> /alx-system_engineering-devops/0x00-shell_basics/0-current_working_directory
+	*	1675956902	0
+	"	2	0
+	^	2	0
+	.	1	12
+	+	1	12
+
+> /alx-system_engineering-devops/0x00-shell_basics/README.md
+	*	1675956830	0
+	"	2	0
+	^	2	0
+	.	1	12
+	+	1	12
+
+> /alx-system_engineering-devops/README.md
+	*	1675956792	0
+	"	2	0
+	^	2	0
+	.	1	12
+	+	1	10
+	+	1	12
+
+> /alx-system_engineering-devops/0x00-shell_basics/vi
+	*	1675956757	0
+	"	1	0
 
 > ~/0x02_vi/exiting
 	*	1675934696	0
