@@ -12,9 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1676130747,,"wq"
+|2,0,1676190999,,"wq"
 :q
-|2,0,1676113248,,"q"
+|2,0,1676190981,,"q"
+:q!
+|2,0,1676190803,,"q!"
 :w
 |2,0,1675965252,,"w"
 
@@ -29,38 +31,142 @@
 # Registers:
 
 # File marks:
-'0  1  6  ~/0x01_emacs/opening
-|4,48,1,6,1676130747,"~/0x01_emacs/opening"
-'1  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,49,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
-'2  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,50,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
-'3  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,51,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
-'4  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,52,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
-'5  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,53,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
-'6  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,54,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
-'7  2  10  /alx-system_engineering-devops/0x01-shell_permissions/4-empty
-|4,55,2,10,1676110453,"/alx-system_engineering-devops/0x01-shell_permissions/4-empty"
-'8  2  10  /alx-system_engineering-devops/0x01-shell_permissions/4-empty
-|4,56,2,10,1676110293,"/alx-system_engineering-devops/0x01-shell_permissions/4-empty"
-'9  2  5  /alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-|4,57,2,5,1676109298,"/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i"
+'0  1  0  ~/0x02_vi/exiting
+|4,48,1,0,1676190999,"~/0x02_vi/exiting"
+'1  1  0  ~/0x02_vi/exiting
+|4,49,1,0,1676190981,"~/0x02_vi/exiting"
+'2  1  0  ~/0x02_vi/exiting
+|4,50,1,0,1676190803,"~/0x02_vi/exiting"
+'3  1  0  ~/0x02_vi/exiting
+|4,51,1,0,1676190803,"~/0x02_vi/exiting"
+'4  1  6  ~/0x01_emacs/opening
+|4,52,1,6,1676130747,"~/0x01_emacs/opening"
+'5  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,53,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+'6  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,54,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+'7  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,55,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+'8  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,56,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+'9  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
+|4,57,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
 
 # Jumplist (newest first):
+-'  1  0  ~/0x02_vi/exiting
+|4,39,1,0,1676190999,"~/0x02_vi/exiting"
+-'  1  0  ~/0x02_vi/exiting
+|4,39,1,0,1676190981,"~/0x02_vi/exiting"
+-'  1  0  ~/0x02_vi/exiting
+|4,39,1,0,1676190803,"~/0x02_vi/exiting"
+-'  1  6  ~/0x01_emacs/opening
+|4,39,1,6,1676130747,"~/0x01_emacs/opening"
+-'  1  6  ~/0x01_emacs/opening
+|4,39,1,6,1676130747,"~/0x01_emacs/opening"
+-'  1  6  ~/0x01_emacs/opening
+|4,39,1,6,1676130747,"~/0x01_emacs/opening"
+-'  1  6  ~/0x01_emacs/opening
+|4,39,1,6,1676130747,"~/0x01_emacs/opening"
+-'  1  6  ~/0x01_emacs/opening
+|4,39,1,6,1676130747,"~/0x01_emacs/opening"
+-'  1  6  ~/0x01_emacs/opening
+|4,39,1,6,1676130747,"~/0x01_emacs/opening"
+-'  1  6  ~/0x01_emacs/opening
+|4,39,1,6,1676130747,"~/0x01_emacs/opening"
 -'  1  6  ~/0x01_emacs/opening
 |4,39,1,6,1676130747,"~/0x01_emacs/opening"
 -'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
 |4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
 -'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
 |4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
 -'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
 |4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
 -'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
 |4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
 -'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
 |4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
 -'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
@@ -77,182 +183,85 @@
 |4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
 -'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
 |4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,39,1,0,1676113265,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
--'  2  14  /alx-system_engineering-devops/0x01-shell_permissions/5-execute
-|4,39,2,14,1676110797,"/alx-system_engineering-devops/0x01-shell_permissions/5-execute"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
+|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
 
 # History of marks within files (newest to oldest):
+
+> ~/0x02_vi/exiting
+	*	1676190997	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
 
 > ~/0x01_emacs/opening
 	*	1676130745	0
@@ -386,13 +395,6 @@
 > /alx-system_engineering-devops/0x00-shell_basics/vi
 	*	1675956757	0
 	"	1	0
-
-> ~/0x02_vi/exiting
-	*	1675934696	0
-	"	1	1
-	^	1	2
-	.	1	1
-	+	1	1
 
 > ~/0x02_vi/pasting
 	*	1675933744	0
