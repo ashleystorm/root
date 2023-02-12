@@ -10,17 +10,22 @@
 
 # hlsearch on (H) or off (h):
 ~h
+# Last Substitute String:
+$
+
 # Command Line History (newest to oldest):
 :wq
-|2,0,1676190999,,"wq"
+|2,0,1676200735,,"wq"
 :q
-|2,0,1676190981,,"q"
+|2,0,1676199434,,"q"
 :q!
 |2,0,1676190803,,"q!"
 :w
 |2,0,1675965252,,"w"
 
 # Search String History (newest to oldest):
+? @$
+|2,1,1676194239,,"@$"
 
 # Expression History (newest to oldest):
 
@@ -31,230 +36,258 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/0x02_vi/exiting
-|4,48,1,0,1676190999,"~/0x02_vi/exiting"
-'1  1  0  ~/0x02_vi/exiting
-|4,49,1,0,1676190981,"~/0x02_vi/exiting"
-'2  1  0  ~/0x02_vi/exiting
-|4,50,1,0,1676190803,"~/0x02_vi/exiting"
-'3  1  0  ~/0x02_vi/exiting
-|4,51,1,0,1676190803,"~/0x02_vi/exiting"
-'4  1  6  ~/0x01_emacs/opening
-|4,52,1,6,1676130747,"~/0x01_emacs/opening"
-'5  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,53,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
-'6  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,54,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
-'7  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,55,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
-'8  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,56,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
-'9  2  13  /alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-|4,57,2,13,1676113299,"/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions"
+'0  2  4  /alx-system_engineering-devops/0x00-shell_basics/101-clean_emacs
+|4,48,2,4,1676200735,"/alx-system_engineering-devops/0x00-shell_basics/101-clean_emacs"
+'1  2  8  /alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,49,2,8,1676199440,"/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+'2  1  0  /alx-zero_day/home.gitignore
+|4,50,1,0,1676197661,"/alx-zero_day/home.gitignore"
+'3  2  16  /alx-zero_day/0x03-git/bash/alx
+|4,51,2,16,1676194467,"/alx-zero_day/0x03-git/bash/alx"
+'4  2  15  /alx-zero_day/0x03-git/bash/alx
+|4,52,2,15,1676194380,"/alx-zero_day/0x03-git/bash/alx"
+'5  6  73  /alx-zero_day/0x03-git/bash
+|4,53,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+'6  1  0  ~/0x02_vi/exiting
+|4,54,1,0,1676190999,"~/0x02_vi/exiting"
+'7  1  0  ~/0x02_vi/exiting
+|4,55,1,0,1676190981,"~/0x02_vi/exiting"
+'8  1  0  ~/0x02_vi/exiting
+|4,56,1,0,1676190803,"~/0x02_vi/exiting"
+'9  1  0  ~/0x02_vi/exiting
+|4,57,1,0,1676190803,"~/0x02_vi/exiting"
 
 # Jumplist (newest first):
+-'  2  4  /alx-system_engineering-devops/0x00-shell_basics/101-clean_emacs
+|4,39,2,4,1676200735,"/alx-system_engineering-devops/0x00-shell_basics/101-clean_emacs"
+-'  1  0  /alx-system_engineering-devops/0x00-shell_basics/101-clean_emacs
+|4,39,1,0,1676200717,"/alx-system_engineering-devops/0x00-shell_basics/101-clean_emacs"
+-'  2  8  /alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,2,8,1676199440,"/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  2  8  /alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,2,8,1676199440,"/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,1,0,1676199413,"/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+|4,39,1,0,1676199413,"/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions"
+-'  1  0  /alx-zero_day/home.gitignore
+|4,39,1,0,1676197661,"/alx-zero_day/home.gitignore"
+-'  1  0  /alx-zero_day/home.gitignore
+|4,39,1,0,1676197661,"/alx-zero_day/home.gitignore"
+-'  1  0  /alx-zero_day/home.gitignore
+|4,39,1,0,1676197661,"/alx-zero_day/home.gitignore"
+-'  1  0  /alx-zero_day/home.gitignore
+|4,39,1,0,1676197661,"/alx-zero_day/home.gitignore"
+-'  2  16  /alx-zero_day/0x03-git/bash/alx
+|4,39,2,16,1676194467,"/alx-zero_day/0x03-git/bash/alx"
+-'  2  16  /alx-zero_day/0x03-git/bash/alx
+|4,39,2,16,1676194467,"/alx-zero_day/0x03-git/bash/alx"
+-'  2  16  /alx-zero_day/0x03-git/bash/alx
+|4,39,2,16,1676194467,"/alx-zero_day/0x03-git/bash/alx"
+-'  2  16  /alx-zero_day/0x03-git/bash/alx
+|4,39,2,16,1676194467,"/alx-zero_day/0x03-git/bash/alx"
+-'  2  16  /alx-zero_day/0x03-git/bash/alx
+|4,39,2,16,1676194467,"/alx-zero_day/0x03-git/bash/alx"
+-'  2  16  /alx-zero_day/0x03-git/bash/alx
+|4,39,2,16,1676194467,"/alx-zero_day/0x03-git/bash/alx"
+-'  2  16  /alx-zero_day/0x03-git/bash/alx
+|4,39,2,16,1676194467,"/alx-zero_day/0x03-git/bash/alx"
+-'  2  16  /alx-zero_day/0x03-git/bash/alx
+|4,39,2,16,1676194467,"/alx-zero_day/0x03-git/bash/alx"
+-'  2  15  /alx-zero_day/0x03-git/bash/alx
+|4,39,2,15,1676194380,"/alx-zero_day/0x03-git/bash/alx"
+-'  2  15  /alx-zero_day/0x03-git/bash/alx
+|4,39,2,15,1676194380,"/alx-zero_day/0x03-git/bash/alx"
+-'  2  15  /alx-zero_day/0x03-git/bash/alx
+|4,39,2,15,1676194380,"/alx-zero_day/0x03-git/bash/alx"
+-'  2  15  /alx-zero_day/0x03-git/bash/alx
+|4,39,2,15,1676194380,"/alx-zero_day/0x03-git/bash/alx"
+-'  2  15  /alx-zero_day/0x03-git/bash/alx
+|4,39,2,15,1676194380,"/alx-zero_day/0x03-git/bash/alx"
+-'  2  15  /alx-zero_day/0x03-git/bash/alx
+|4,39,2,15,1676194380,"/alx-zero_day/0x03-git/bash/alx"
+-'  2  15  /alx-zero_day/0x03-git/bash/alx
+|4,39,2,15,1676194380,"/alx-zero_day/0x03-git/bash/alx"
+-'  2  15  /alx-zero_day/0x03-git/bash/alx
+|4,39,2,15,1676194380,"/alx-zero_day/0x03-git/bash/alx"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  6  73  /alx-zero_day/0x03-git/bash
+|4,39,6,73,1676194270,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
+-'  1  0  /alx-zero_day/0x03-git/bash
+|4,39,1,0,1676194250,"/alx-zero_day/0x03-git/bash"
 -'  1  0  ~/0x02_vi/exiting
 |4,39,1,0,1676190999,"~/0x02_vi/exiting"
 -'  1  0  ~/0x02_vi/exiting
-|4,39,1,0,1676190981,"~/0x02_vi/exiting"
+|4,39,1,0,1676190999,"~/0x02_vi/exiting"
 -'  1  0  ~/0x02_vi/exiting
-|4,39,1,0,1676190803,"~/0x02_vi/exiting"
--'  1  6  ~/0x01_emacs/opening
-|4,39,1,6,1676130747,"~/0x01_emacs/opening"
--'  1  6  ~/0x01_emacs/opening
-|4,39,1,6,1676130747,"~/0x01_emacs/opening"
--'  1  6  ~/0x01_emacs/opening
-|4,39,1,6,1676130747,"~/0x01_emacs/opening"
--'  1  6  ~/0x01_emacs/opening
-|4,39,1,6,1676130747,"~/0x01_emacs/opening"
--'  1  6  ~/0x01_emacs/opening
-|4,39,1,6,1676130747,"~/0x01_emacs/opening"
--'  1  6  ~/0x01_emacs/opening
-|4,39,1,6,1676130747,"~/0x01_emacs/opening"
--'  1  6  ~/0x01_emacs/opening
-|4,39,1,6,1676130747,"~/0x01_emacs/opening"
--'  1  6  ~/0x01_emacs/opening
-|4,39,1,6,1676130747,"~/0x01_emacs/opening"
--'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  9  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,9,1676116211,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  12  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,12,1676116107,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  2  10  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,2,10,1676116010,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
--'  1  0  /alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-|4,39,1,0,1676115988,"/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond"
+|4,39,1,0,1676190999,"~/0x02_vi/exiting"
+-'  1  0  ~/0x02_vi/exiting
+|4,39,1,0,1676190999,"~/0x02_vi/exiting"
+-'  1  0  ~/0x02_vi/exiting
+|4,39,1,0,1676190999,"~/0x02_vi/exiting"
+-'  1  0  ~/0x02_vi/exiting
+|4,39,1,0,1676190999,"~/0x02_vi/exiting"
+-'  1  0  ~/0x02_vi/exiting
+|4,39,1,0,1676190999,"~/0x02_vi/exiting"
+-'  1  0  ~/0x02_vi/exiting
+|4,39,1,0,1676190999,"~/0x02_vi/exiting"
+-'  1  0  ~/0x02_vi/exiting
+|4,39,1,0,1676190999,"~/0x02_vi/exiting"
+-'  1  0  ~/0x02_vi/exiting
+|4,39,1,0,1676190999,"~/0x02_vi/exiting"
 
 # History of marks within files (newest to oldest):
+
+> /alx-system_engineering-devops/0x00-shell_basics/101-clean_emacs
+	*	1676200734	0
+	"	2	4
+	^	2	5
+	.	2	5
+	+	2	5
+
+> /alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
+	*	1676199438	0
+	"	2	8
+	^	2	9
+	.	2	8
+	+	2	8
+
+> /alx-zero_day/home.gitignore
+	*	1676197659	0
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> /alx-zero_day/0x03-git/bash/alx
+	*	1676194466	0
+	"	2	16
+	^	2	17
+	.	2	16
+	+	2	16
 
 > ~/0x02_vi/exiting
 	*	1676190997	0
@@ -409,13 +442,6 @@
 	^	1	8
 	.	1	7
 	+	1	7
-
-> /alx-zero_day/0x03-git/bash/alx
-	*	1675888073	0
-	"	2	28
-	^	2	29
-	.	2	28
-	+	2	28
 
 > bsh/alx
 	*	1675888042	0
